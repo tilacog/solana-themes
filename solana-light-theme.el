@@ -73,6 +73,16 @@
     (cyan-cooler "#165fb3")
     (cyan-faint "#406d7d")
 
+    (heading-0 "#832ee5")
+    (heading-1 "#832ee5")
+    (heading-2 "#4c4ae9")
+    (heading-3 "#1761bc")
+    (heading-4 "#0f6d77")
+    (heading-5 "#0e714c")
+    (heading-6 "#0f6d77")
+    (heading-7 "#1761bc")
+    (heading-8 "#4c4ae9")
+
     (bg-red-intense "#f1c4ca")
     (bg-green-intense "#14f195")
     (bg-yellow-intense "#e4cc8c")

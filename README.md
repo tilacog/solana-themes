@@ -26,6 +26,9 @@ both themes, the light theme's paren-match and `bg-green-intense`.
 Contrast policy: every text/background pair meets WCAG AA (>= 4.5:1).
 Lightness values were solved numerically per pair rather than picked by
 eye; the measured tables are in the theme files' palette comments.
+Headings cycle along the signature Solana gradient: purple at level 1,
+three mid-tones (indigo, azure, teal) to green at level 5, then back
+through the same mid-tones; the cycle restarts on purple.
 Syntax roles are assigned for maximum hue separation (purple keywords,
 green strings, teal function names, indigo types, gold builtins, rose
 constants, neutral variables, recessive comments).
